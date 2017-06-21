@@ -84,6 +84,14 @@ ul{
   margin-top:100px;
   color:white;
 }
+hr {
+  height: 10px;
+  background-color: black;
+  width:10000px;
+  margin-left:0%;
+  margin-right:0%;
+}
+
 
 
 
