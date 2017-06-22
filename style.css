@@ -98,10 +98,9 @@ hr {
     border-bottom: 5px solid white;
 }
 .caja{
-    width: 
     border: 5px solid white;
     padding: 5px;
-  height:
+    box-sizing: border-box
 }
 
 
