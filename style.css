@@ -97,6 +97,7 @@ hr {
     margin:0px;
     box-sizing: padding-box;
     border-bottom: 5px solid white;
+    background-size: cover;
 }
 .caja{
     border: 2px solid white;
