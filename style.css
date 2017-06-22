@@ -66,7 +66,7 @@ p{
   color:white; 
   width:700px;
   margin-bottom:0.5px;
-  margin-left:15px;
+  margin-left:10px;
 }
 ul{
   margin-top:30px;
@@ -95,7 +95,7 @@ hr {
   width: 100%;
     padding: 70px;
     margin:0px;
-    box-sizing: margin-box;
+    box-sizing: padding-box;
     border-bottom: 5px solid white;
 }
 
