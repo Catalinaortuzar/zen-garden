@@ -98,10 +98,9 @@ hr {
     box-sizing: border-box;
     border: none;
     border-bottom: 2px solid red;
+  margin-top:20px;
 }
-.padding{
-  bottom-padding:1cm;
-}
+
 
 
 
