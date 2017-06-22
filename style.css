@@ -1,3 +1,4 @@
+http://fontastic.me
 body { 
 margin: 400px;
   margin-top:500px;
@@ -33,22 +34,32 @@ h3{
   color:white;
    font-weight: lighter;
   width:500px;
+margin-left:20%;
+  
 }
 h4{
   margin-top:150px;
-  font-size:1.1em;
+  font-size:2em;
   letter-spacing:1px;
   color:white;
    font-weight: lighter;
+  margin-left:11%;
+  text-align:left;
+  width:300px;
+ 
+  
 }
 h5{
-  margin-top:70px;
+  margin-top:80px;
   margin-bottom:130px;
   font-size:2em;
   letter-spacing:1px;
   color:white;
    font-weight: lighter;
-  border:white 2px;
+    border:white 2px solid;
+  padding:20px;
+  width:700px;
+margin-left:15%;
 }
 h6{
   margin-top:70px;
@@ -64,20 +75,20 @@ p{
   align-items:center;
   line-height:1.5;
   color:white; 
-  width:700px;
+  width:300px;
   margin-bottom:0.5px;
+  margin-left:12%;
 }
 ul{
   margin-top:30px;
   list-style-type:none;
   text-align:center;
-  font-size:0.9em;
+  font-size:em;
   list-style-position:outside;
   columns:3;
   column-gap: 50px;
   line-height:1.5;
   color:white;
-  border:white 2 px;
 }
 #partefinal{
   text-align:center;
@@ -85,7 +96,7 @@ ul{
   color:white;
 }
 hr {
-  height: 20px;
+  height: 10px;
   background-color: white;
   width:2000px;
   margin-left:0px;
@@ -99,12 +110,10 @@ hr {
     border-bottom: 5px solid white;
     background-size: cover;
 }
+.bordes{
+  border:white 2px solid;
+ margin-top:30px;
+  height:200px;
+  padding-bottom:10px;
 
-
-
-
-
-
-
-
-
+}
