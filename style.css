@@ -108,6 +108,7 @@ hr {
     padding: ;
    height:20px;
      width:40px;
+  box-sizing:border-box;
 }
 
 
