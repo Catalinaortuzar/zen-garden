@@ -66,7 +66,7 @@ p{
   color:white; 
   width:700px;
   margin-bottom:0.5px;
-  margin-left:20px;
+  margin-left:18px;
 }
 ul{
   margin-top:30px;
@@ -93,12 +93,10 @@ hr {
 }
 .linea{
   width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: none;
-    border-bottom: 2px solid red;
-  margin-top:20px;
+    padding: 70px;
+    margin:0px;
+    box-sizing: initial;
+    border-bottom: 5px solid white;
 }
 
 
