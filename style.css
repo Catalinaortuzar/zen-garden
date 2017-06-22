@@ -95,7 +95,7 @@ hr {
   width: 100%;
     padding: 70px;
     margin:0px;
-    box-sizing: initial;
+    box-sizing: margin-box;
     border-bottom: 5px solid white;
 }
 
