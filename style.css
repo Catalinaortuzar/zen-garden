@@ -1,8 +1,10 @@
-body { 
+
+  body { 
   margin-bottom:200px;
 font-family:Gisha;
 text-align: center;
   background:#99994d;
+    margin:0;
   
 }
 a{
@@ -117,10 +119,8 @@ hr {
   background-size: cover;
   height: 350px;
   padding-top:500px;
- left:0px;
-    
+ left:0px;    
 }
   
-
 
 
