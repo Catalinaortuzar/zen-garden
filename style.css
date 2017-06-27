@@ -97,6 +97,13 @@ ul{
   text-align:center;
   margin-top:100px;
   color:white;
+  margin-bottom:100px;
+     background: white no-repeat center center;
+  background-size: cover;
+  height: 50px;
+  padding-top:50px;
+  margin:0;
+  opacity:0.9;
 }
 hr {
   height: 50px;
